@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カラダノカンケイ",
+  "base_artist": "YUTORI-SEDAI",
+  "createdAt": "2026-01-09T03:48:14.825956Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カラダノカンケイ",
+      "artist": "YUTORI-SEDAI",
+      "has_synced": false,
+      "path": "select/pl_01_カラダノカンケイ_YUTORI-SEDAI.txt"
+    }
+  ]
+}
